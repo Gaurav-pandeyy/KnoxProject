@@ -1,5 +1,9 @@
 # 🛡️ KnoxProject - Social Media Backend API
 
+
+A robust Django REST Framework (DRF) based backend API for a social media platform, featuring **Knox** token-based authentication. This project provides essential social media functionality with secure authentication, scalable architecture, and modern API design.
+
+---
 ## 📸 Project Screenshots
 
 ### Screenshot 1
@@ -19,10 +23,6 @@
 
 ### Screenshot 6
 ![Screenshot 6](https://drive.google.com/uc?export=view&id=1BVuaqQ_4STLbtvX4ktAeky-YlfxJBi4j)
-A robust Django REST Framework (DRF) based backend API for a social media platform, featuring **Knox** token-based authentication. This project provides essential social media functionality with secure authentication, scalable architecture, and modern API design.
-
----
-
 ## 🌟 Key Features
 
 - 🔐 **Secure Authentication** - Knox token-based authentication system
